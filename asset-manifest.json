@@ -1,10 +1,22 @@
 {
-  "main.css": "static/css/main.289d7a95.css",
-  "main.css.map": "static/css/main.289d7a95.css.map",
-  "main.js": "static/js/main.6dcdb99f.js",
-  "main.js.map": "static/js/main.6dcdb99f.js.map",
-  "static/media/crypto_lottery_clip_how_to_buy.mp4": "static/media/crypto_lottery_clip_how_to_buy.5f9c4d82.mp4",
-  "static/media/crypto_lottery_clip_instruction.mp4": "static/media/crypto_lottery_clip_instruction.a0587759.mp4",
-  "static/media/crypto_lottery_distribution.jpg": "static/media/crypto_lottery_distribution.aed44d7d.jpg",
-  "static/media/logo.png": "static/media/logo.ee2749da.png"
+  "files": {
+    "main.css": "/static/css/main.1f49eda1.chunk.css",
+    "main.js": "/static/js/main.1f68c6b1.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c9343be6.js",
+    "static/css/2.494a8aa8.chunk.css": "/static/css/2.494a8aa8.chunk.css",
+    "static/js/2.239f78a7.chunk.js": "/static/js/2.239f78a7.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.239f78a7.chunk.js.LICENSE.txt": "/static/js/2.239f78a7.chunk.js.LICENSE.txt",
+    "static/media/crypto_lottery_clip_how_to_buy.mp4": "/static/media/crypto_lottery_clip_how_to_buy.b0ebf8b4.mp4",
+    "static/media/crypto_lottery_clip_instruction.mp4": "/static/media/crypto_lottery_clip_instruction.b959a693.mp4",
+    "static/media/crypto_lottery_distribution.jpg": "/static/media/crypto_lottery_distribution.e7eb2bd0.jpg",
+    "static/media/logo.bc95bf87.png": "/static/media/logo.bc95bf87.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9343be6.js",
+    "static/css/2.494a8aa8.chunk.css",
+    "static/js/2.239f78a7.chunk.js",
+    "static/css/main.1f49eda1.chunk.css",
+    "static/js/main.1f68c6b1.chunk.js"
+  ]
 }
